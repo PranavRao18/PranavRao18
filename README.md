@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav Rao</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m currently learning **Web Development and Machine Learning**
+- I also like Competitive Programming
 
 - 📫 How to reach me **prnvraosrs@gmail.com**
 
